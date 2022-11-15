@@ -121,3 +121,7 @@ img.kp {
     background-color: #1F2937;
     padding: 75px;
 }
+
+img {
+    max-width: 100%;
+}
