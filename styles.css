@@ -39,6 +39,7 @@ a {
     align-items: center; 
     flex-wrap: wrap;
     padding: 75px;
+    gap: 25px;
 }
 
 button {
@@ -53,7 +54,7 @@ button {
     max-width: 400px;
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 25px; 
 }
 
 .Part1 {
